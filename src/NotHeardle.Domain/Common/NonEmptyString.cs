@@ -4,7 +4,7 @@ namespace NotHeardle.Domain.Models;
 
 public sealed record class NonEmptyString
 {
-    public string Value { get; set; }
+    public string Value { get; init; }
 
     private NonEmptyString(string name)
         => Value = name;

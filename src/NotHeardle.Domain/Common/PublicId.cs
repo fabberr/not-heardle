@@ -3,7 +3,7 @@ using NotHeardle.Domain.Common;
 
 public sealed record class PublicId
 {
-    public Guid Value { get; set; }
+    public Guid Value { get; init; }
 
     private PublicId(Guid value)
         => Value = value;
