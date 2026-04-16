@@ -138,7 +138,3 @@
 - Streams audio bytes for the clip.
 
 ---
-
-## Server-side config (conceptual)
-- `sessionSongCount`
-- `clipsPerSong`
