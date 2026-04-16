@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NotHeardle.Api/NotHeardle.Api.csproj" />
+  <Project Path="NotHeardle.Application/NotHeardle.Application.csproj" />
+  <Project Path="NotHeardle.Domain/NotHeardle.Domain.csproj" />
+  <Project Path="NotHeardle.Infrastructure/NotHeardle.Infrastructure.csproj" />
+</Solution>
